@@ -1,0 +1,605 @@
+fileFormatVersion: 2
+guid: a25d2d7f5c102a447a241a0e303a1715
+timeCreated: 1428352672
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: OO_IDLE-GRID_0
+    21300002: OO_IDLE-GRID_1
+    21300004: OO_IDLE-GRID_2
+    21300006: OO_IDLE-GRID_3
+    21300008: OO_IDLE-GRID_4
+    21300010: OO_IDLE-GRID_5
+    21300012: OO_IDLE-GRID_6
+    21300014: OO_IDLE-GRID_7
+    21300016: OO_IDLE-GRID_8
+    21300018: OO_IDLE-GRID_9
+    21300020: OO_IDLE-GRID_10
+    21300022: OO_IDLE-GRID_11
+    21300024: OO_IDLE-GRID_12
+    21300026: OO_IDLE-GRID_13
+    21300028: OO_IDLE-GRID_14
+    21300030: OO_IDLE-GRID_15
+    21300032: OO_IDLE-GRID_16
+    21300034: OO_IDLE-GRID_17
+    21300036: OO_IDLE-GRID_18
+    21300038: OO_IDLE-GRID_19
+    21300040: OO_IDLE-GRID_20
+    21300042: OO_IDLE-GRID_21
+    21300044: OO_IDLE-GRID_22
+    21300046: OO_IDLE-GRID_23
+    21300048: OO_IDLE-GRID_24
+    21300050: OO_IDLE-GRID_25
+    21300052: OO_IDLE-GRID_26
+    21300054: OO_IDLE-GRID_27
+    21300056: OO_IDLE-GRID_28
+    21300058: OO_IDLE-GRID_29
+    21300060: OO_IDLE-GRID_30
+    21300062: OO_IDLE-GRID_31
+    21300064: OO_IDLE-GRID_32
+    21300066: OO_IDLE-GRID_33
+    21300068: OO_IDLE-GRID_34
+    21300070: OO_IDLE-GRID_35
+    21300072: OO_IDLE-GRID_36
+    21300074: OO_IDLE-GRID_37
+    21300076: OO_IDLE-GRID_38
+    21300078: OO_IDLE-GRID_39
+    21300080: OO_IDLE-GRID_40
+    21300082: OO_IDLE-GRID_41
+    21300084: OO_IDLE-GRID_42
+    21300086: OO_IDLE-GRID_43
+    21300088: OO_IDLE-GRID_44
+    21300090: OO_IDLE-GRID_45
+    21300092: OO_IDLE-GRID_46
+    21300094: OO_IDLE-GRID_47
+    21300096: OO_IDLE-GRID_48
+    21300098: OO_IDLE-GRID_49
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 8
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: OO_IDLE-GRID_0
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 13700
+        width: 1200
+        height: 1200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: OO_IDLE-GRID_1
+      rect:
+        serializedVersion: 2
+        x: 1700
+        y: 13700
+        width: 1200
+        height: 1200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: OO_IDLE-GRID_2
+      rect:
+        serializedVersion: 2
+        x: 3200
+        y: 13700
+        width: 1200
+        height: 1200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: OO_IDLE-GRID_3
+      rect:
+        serializedVersion: 2
+        x: 4700
+        y: 13700
+        width: 1200
+        height: 1200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: OO_IDLE-GRID_4
+      rect:
+        serializedVersion: 2
+        x: 6200
+        y: 13700
+        width: 1200
+        height: 1200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: OO_IDLE-GRID_5
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 12200
+        width: 1200
+        height: 1200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: OO_IDLE-GRID_6
+      rect:
+        serializedVersion: 2
+        x: 1700
+        y: 12200
+        width: 1200
+        height: 1200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: OO_IDLE-GRID_7
+      rect:
+        serializedVersion: 2
+        x: 3200
+        y: 12200
+        width: 1200
+        height: 1200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: OO_IDLE-GRID_8
+      rect:
+        serializedVersion: 2
+        x: 4700
+        y: 12200
+        width: 1200
+        height: 1200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: OO_IDLE-GRID_9
+      rect:
+        serializedVersion: 2
+        x: 6200
+        y: 12200
+        width: 1200
+        height: 1200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: OO_IDLE-GRID_10
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 10700
+        width: 1200
+        height: 1200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: OO_IDLE-GRID_11
+      rect:
+        serializedVersion: 2
+        x: 1700
+        y: 10700
+        width: 1200
+        height: 1200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: OO_IDLE-GRID_12
+      rect:
+        serializedVersion: 2
+        x: 3200
+        y: 10700
+        width: 1200
+        height: 1200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: OO_IDLE-GRID_13
+      rect:
+        serializedVersion: 2
+        x: 4700
+        y: 10700
+        width: 1200
+        height: 1200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: OO_IDLE-GRID_14
+      rect:
+        serializedVersion: 2
+        x: 6200
+        y: 10700
+        width: 1200
+        height: 1200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: OO_IDLE-GRID_15
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 9200
+        width: 1200
+        height: 1200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: OO_IDLE-GRID_16
+      rect:
+        serializedVersion: 2
+        x: 1700
+        y: 9200
+        width: 1200
+        height: 1200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: OO_IDLE-GRID_17
+      rect:
+        serializedVersion: 2
+        x: 3200
+        y: 9200
+        width: 1200
+        height: 1200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: OO_IDLE-GRID_18
+      rect:
+        serializedVersion: 2
+        x: 4700
+        y: 9200
+        width: 1200
+        height: 1200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: OO_IDLE-GRID_19
+      rect:
+        serializedVersion: 2
+        x: 6200
+        y: 9200
+        width: 1200
+        height: 1200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: OO_IDLE-GRID_20
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 7700
+        width: 1200
+        height: 1200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: OO_IDLE-GRID_21
+      rect:
+        serializedVersion: 2
+        x: 1700
+        y: 7700
+        width: 1200
+        height: 1200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: OO_IDLE-GRID_22
+      rect:
+        serializedVersion: 2
+        x: 3200
+        y: 7700
+        width: 1200
+        height: 1200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: OO_IDLE-GRID_23
+      rect:
+        serializedVersion: 2
+        x: 4700
+        y: 7700
+        width: 1200
+        height: 1200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: OO_IDLE-GRID_24
+      rect:
+        serializedVersion: 2
+        x: 6200
+        y: 7700
+        width: 1200
+        height: 1200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: OO_IDLE-GRID_25
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 6200
+        width: 1200
+        height: 1200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: OO_IDLE-GRID_26
+      rect:
+        serializedVersion: 2
+        x: 1700
+        y: 6200
+        width: 1200
+        height: 1200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: OO_IDLE-GRID_27
+      rect:
+        serializedVersion: 2
+        x: 3200
+        y: 6200
+        width: 1200
+        height: 1200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: OO_IDLE-GRID_28
+      rect:
+        serializedVersion: 2
+        x: 4700
+        y: 6200
+        width: 1200
+        height: 1200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: OO_IDLE-GRID_29
+      rect:
+        serializedVersion: 2
+        x: 6200
+        y: 6200
+        width: 1200
+        height: 1200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: OO_IDLE-GRID_30
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 4700
+        width: 1200
+        height: 1200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: OO_IDLE-GRID_31
+      rect:
+        serializedVersion: 2
+        x: 1700
+        y: 4700
+        width: 1200
+        height: 1200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: OO_IDLE-GRID_32
+      rect:
+        serializedVersion: 2
+        x: 3200
+        y: 4700
+        width: 1200
+        height: 1200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: OO_IDLE-GRID_33
+      rect:
+        serializedVersion: 2
+        x: 4700
+        y: 4700
+        width: 1200
+        height: 1200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: OO_IDLE-GRID_34
+      rect:
+        serializedVersion: 2
+        x: 6200
+        y: 4700
+        width: 1200
+        height: 1200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: OO_IDLE-GRID_35
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 3200
+        width: 1200
+        height: 1200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: OO_IDLE-GRID_36
+      rect:
+        serializedVersion: 2
+        x: 1700
+        y: 3200
+        width: 1200
+        height: 1200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: OO_IDLE-GRID_37
+      rect:
+        serializedVersion: 2
+        x: 3200
+        y: 3200
+        width: 1200
+        height: 1200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: OO_IDLE-GRID_38
+      rect:
+        serializedVersion: 2
+        x: 4700
+        y: 3200
+        width: 1200
+        height: 1200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: OO_IDLE-GRID_39
+      rect:
+        serializedVersion: 2
+        x: 6200
+        y: 3200
+        width: 1200
+        height: 1200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: OO_IDLE-GRID_40
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 1700
+        width: 1200
+        height: 1200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: OO_IDLE-GRID_41
+      rect:
+        serializedVersion: 2
+        x: 1700
+        y: 1700
+        width: 1200
+        height: 1200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: OO_IDLE-GRID_42
+      rect:
+        serializedVersion: 2
+        x: 3200
+        y: 1700
+        width: 1200
+        height: 1200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: OO_IDLE-GRID_43
+      rect:
+        serializedVersion: 2
+        x: 4700
+        y: 1700
+        width: 1200
+        height: 1200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: OO_IDLE-GRID_44
+      rect:
+        serializedVersion: 2
+        x: 6200
+        y: 1700
+        width: 1200
+        height: 1200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: OO_IDLE-GRID_45
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 200
+        width: 1200
+        height: 1200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: OO_IDLE-GRID_46
+      rect:
+        serializedVersion: 2
+        x: 1700
+        y: 200
+        width: 1200
+        height: 1200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: OO_IDLE-GRID_47
+      rect:
+        serializedVersion: 2
+        x: 3200
+        y: 200
+        width: 1200
+        height: 1200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: OO_IDLE-GRID_48
+      rect:
+        serializedVersion: 2
+        x: 4700
+        y: 200
+        width: 1200
+        height: 1200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: OO_IDLE-GRID_49
+      rect:
+        serializedVersion: 2
+        x: 6200
+        y: 200
+        width: 1200
+        height: 1200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
